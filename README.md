@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hirthick</h1>
 <h3 align="center">frontend developer from India</h3>
+<img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right">
 
 - 🔭 I’m currently working on **Python**
 
