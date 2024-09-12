@@ -1,31 +1,15 @@
-# Welcome to [Hirthick's](https://github.com/Hirthick6/) profile! <a href="https://github.com/Hirthick6/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<h1 align="center">Hi 👋, I'm Hirthick</h1>
+<h3 align="center">frontend developer from India</h3>
 
-### I'm a...   <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right">
+- 🔭 I’m currently working on **Python**
 
-* Future Data Scientist 
-* Deep Learning in Medical Image Processing and Analysis Paper Author
-* Self-Taught Coder
-* Demanding Perfectionist
+- 👯 I’m looking to collaborate on **PHP**
 
-🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/hirthicksofficial)<br>
-📬 How to reach me: [hirthicksoffical@gmail.com](mailto:hirthicksoffcial@gmail.com)<br>
+- 📫 How to reach me **hirthicksofficial@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-
-### My Skills 
-<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30"> 
-
-<img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="30">
-<img src="http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF" height="30"> 
-<img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=openjdk&logoColor=white" height="30">
-<img src="http://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php&logoColor=FFFFFF" height="30"> 
-<img src="http://img.shields.io/badge/-Machine%20Learning-blue?style=for-the-badge&logo=machine-learning&logoColor=FFFFFF" height="30"> 
-<img src="http://img.shields.io/badge/-Deep%20Learning-blue?style=for-the-badge&logo=deep-learning&logoColor=FFFFFF" height="30"> 
-
-
-### Find me on 
-
-_(click the button!)_
-
-[![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hirthick6) [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:hirthicksofficial@gmail.com)
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
